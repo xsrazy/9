@@ -1,0 +1,19 @@
+{
+  "name": "yahoo-checker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "ethers": "^5.7.2",
+    "form-data": "^4.0.0",
+    "node-fetch": "^2.6.0",
+    "text-from-image": "^1.1.1"
+  }
+}
